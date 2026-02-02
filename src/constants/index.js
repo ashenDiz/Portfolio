@@ -21,6 +21,35 @@ export const myProjects = [
   },
   {
     id: 2,
+    title: "Paging Web App for LESS Taxi Pvt Ltd",
+    description:
+      "An enterprise-grade solution for managing flight arrivals, paging, and handovers.",
+    subDescription: [
+      "Paging App is a real-time flight guest management system designed and implemented for LESS Taxi Pvt Ltd to streamline airport pickup and paging operations. The application enables staff to manage arrivals, coordinate drivers, and track guest handover status seamlessly across desktop and mobile platforms.",
+    ],
+    href: "https://paging.lesstaxi.com",
+    logo: "",
+    image: "/assets/projects/paging.png",
+    tags: [
+      {
+        id: 1,
+        name: "Java Script",
+        path: "/assets/logos/js.png",
+      },
+      {
+        id: 2,
+        name: "React",
+        path: "/assets/logos/react.svg",
+      },
+      {
+        id: 3,
+        name: "CSS3",
+        path: "/assets/logos/css3.svg",
+      }
+    ],
+  },
+  {
+    id: 3,
     title: "UI/UX Redesign Proposal for Sri Lanka Post Website",
     description:
       "A secure authentication and authorization system using Auth0 for seamless user management.",
@@ -40,7 +69,7 @@ export const myProjects = [
     ],
   },
   {
-    id: 3,
+    id: 4,
     title: "Survival Game Website Design",
     description:
       "A modern, interactive web application built with Blazor WebAssembly and .NET Core.",
@@ -77,7 +106,7 @@ export const myProjects = [
     ],
   },
   {
-    id: 4,
+    id: 5,
     title: "Nike Store Website - UI/UX Concept Design",
     description:
       "A lightweight C++ game engine designed for 2D and 3D game development.",
@@ -95,38 +124,6 @@ export const myProjects = [
         id: 1,
         name: "Figma",
         path: "/assets/logos/figma.png",
-      }
-    ],
-  },
-  {
-    id: 5,
-    title: "Paging Web App",
-    description:
-      "A fully customizable WordPress theme optimized for performance and SEO.",
-    subDescription: [
-      "Developed a responsive WordPress theme using HTML5, CSS3, and JavaScript.",
-      "Integrated Tailwind CSS for modern styling and UI enhancements.",
-      "Optimized SEO and page speed using Vite.js for fast builds.",
-      "Implemented custom widgets and plugin compatibility for extended functionality.",
-    ],
-    href: "",
-    logo: "",
-    image: "/assets/projects/paging.png",
-    tags: [
-      {
-        id: 1,
-        name: "Java Script",
-        path: "/assets/logos/js.png",
-      },
-      {
-        id: 2,
-        name: "React",
-        path: "/assets/logos/react.svg",
-      },
-      {
-        id: 3,
-        name: "CSS3",
-        path: "/assets/logos/css3.svg",
       }
     ],
   },
