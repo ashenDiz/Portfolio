@@ -2,36 +2,20 @@
 export const myProjects = [
   {
     id: 1,
-    title: "Sri Lankan Tourism Website",
+    title: "Movie Ticket Booking App Design",
     description:
-      "A modern tourism platform designed to showcase Sri Lanka as a premier travel destination, featuring the island's diverse attractions from pristine beaches and lush tea plantations to ancient cultural sites and wildlife sanctuaries",
+      "Movie Ticket Booking App – Immersive purple neon UI with movie details, seat selection & digital barcode ticket",
     subDescription: [
-      "The design employs a vibrant color palette inspired by Sri Lanka's natural beauty—ocean blues, sunset oranges, and tropical greens. Key features include an interactive destinations gallery, curated experience categories, and a comprehensive trip planning system covering popular locations like Ella, Galle, Kandy, and Yala National Park.",
-      "Built in Figma with modern design principles, the responsive interface ensures seamless navigation across all devices while balancing aesthetic appeal with functionality through smooth animations and clear call-to-action elements.",
+      "A sleek mobile movie ticket booking app designed in Figma, featuring a vibrant purple gradient theme across key screens: movie overview with date/time picker interactive seat selection map with real-time availability indicators, and a final mobile ticket view displaying a scannable barcode alongside show details. The design emphasizes cinematic visuals, intuitive navigation, and a seamless booking experience from discovery to entry. Perfect for modern cinema-goers seeking a fast, visually striking app.",
     ],
-    href: "https://www.figma.com/make/AwiHMfbl9BkszB0hdISgOa/Sri-Lankan-Tourism-Homepage?fullscreen=1&t=ido2ynBB0ZtUH7hh-1",
+    href: "https://www.figma.com/proto/q3y3xRg4240pT5q36lDMGh/Movie-Ticket-Booking-App-Design?page-id=0%3A1&node-id=1-65&p=f&viewport=133%2C89%2C0.16&t=grBBqIaBHLfuzPji-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A65",
     logo: "",
-    image: "/assets/projects/Sri Lankan Tourism Homepage.png",
+    image: "/assets/projects/Movie Ticket Bokking App.png",
     tags: [
       {
         id: 1,
-        name: "C#",
-        path: "/assets/logos/csharp.svg",
-      },
-      {
-        id: 2,
-        name: ".Net",
-        path: "/assets/logos/dotnet.svg",
-      },
-      {
-        id: 3,
-        name: "Ef Core",
-        path: "/assets/logos/efcore.png",
-      },
-      {
-        id: 4,
-        name: "TailwindCSS",
-        path: "/assets/logos/tailwindcss.svg",
+        name: "Figma",
+        path: "/assets/logos/figma.png",
       },
     ],
   },
@@ -168,6 +152,41 @@ export const myProjects = [
       }
     ],
   },
+  {
+    id: 7,
+    title: "Sri Lankan Tourism Website",
+    description:
+      "A modern tourism platform designed to showcase Sri Lanka as a premier travel destination, featuring the island's diverse attractions from pristine beaches and lush tea plantations to ancient cultural sites and wildlife sanctuaries",
+    subDescription: [
+      "The design employs a vibrant color palette inspired by Sri Lanka's natural beauty—ocean blues, sunset oranges, and tropical greens. Key features include an interactive destinations gallery, curated experience categories, and a comprehensive trip planning system covering popular locations like Ella, Galle, Kandy, and Yala National Park.",
+      "Built in Figma with modern design principles, the responsive interface ensures seamless navigation across all devices while balancing aesthetic appeal with functionality through smooth animations and clear call-to-action elements.",
+    ],
+    href: "https://www.figma.com/make/AwiHMfbl9BkszB0hdISgOa/Sri-Lankan-Tourism-Homepage?fullscreen=1&t=ido2ynBB0ZtUH7hh-1",
+    logo: "",
+    image: "/assets/projects/Sri Lankan Tourism Homepage.png",
+    tags: [
+      {
+        id: 1,
+        name: "C#",
+        path: "/assets/logos/csharp.svg",
+      },
+      {
+        id: 2,
+        name: ".Net",
+        path: "/assets/logos/dotnet.svg",
+      },
+      {
+        id: 3,
+        name: "Ef Core",
+        path: "/assets/logos/efcore.png",
+      },
+      {
+        id: 4,
+        name: "TailwindCSS",
+        path: "/assets/logos/tailwindcss.svg",
+      },
+    ],
+  }
 ];
 
 export const mySocials = [
