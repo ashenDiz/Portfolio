@@ -4,9 +4,9 @@ export const myProjects = [
     id: 1,
     title: "Movie Ticket Booking App Design",
     description:
-      "Movie Ticket Booking App – Immersive purple neon UI with movie details, seat selection & digital barcode ticket",
+      "A modern movie booking app interface featuring a sleek dark UI, vibrant visuals, and a smooth ticket reservation flow.",
     subDescription: [
-      "A sleek mobile movie ticket booking app designed in Figma, featuring a vibrant purple gradient theme across key screens: movie overview with date/time picker interactive seat selection map with real-time availability indicators, and a final mobile ticket view displaying a scannable barcode alongside show details. The design emphasizes cinematic visuals, intuitive navigation, and a seamless booking experience from discovery to entry. Perfect for modern cinema-goers seeking a fast, visually striking app.",
+      "Dark UI · Neon glow · Seamless ticket booking experience",
     ],
     href: "https://www.figma.com/proto/q3y3xRg4240pT5q36lDMGh/Movie-Ticket-Booking-App-Design?page-id=0%3A1&node-id=1-65&p=f&viewport=133%2C89%2C0.16&t=grBBqIaBHLfuzPji-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A65",
     logo: "",
@@ -50,12 +50,30 @@ export const myProjects = [
   },
   {
     id: 3,
+    title: "Juicy Landing Experience",
+    description:
+      "A vibrant beverage landing page concept designed to showcase freshness, flavor, and modern brand storytelling.",
+    subDescription: [
+      "This UI design focuses on bold visuals, product-centric composition, and smooth user flow to create an engaging digital experience that highlights beverage branding with clarity and impact."
+    ],
+    href: "https://www.figma.com/proto/lP1KMZjsj7IxItDx9kfyzP/Untitled?page-id=0%3A1&node-id=1-2&p=f&viewport=23%2C229%2C0.06&t=xlm3XOz9U1llmEZz-1&scaling=scale-down&content-scaling=fixed",
+    logo: "",
+    image: "/assets/projects/Juicy.png",
+    tags: [
+      {
+        id: 1,
+        name: "Figma",
+        path: "/assets/logos/figma.png",
+      }
+    ],
+  },
+  {
+    id: 4,
     title: "UI/UX Redesign Proposal for Sri Lanka Post Website",
     description:
-      "A secure authentication and authorization system using Auth0 for seamless user management.",
+      "A concept redesign that reimagines Sri Lanka Post as a modern, digital-first service.",
     subDescription: [
-      "Integrated Auth0 for authentication, supporting OAuth, JWT, and multi-factor authentication.",
-      "Implemented role-based access control (RBAC) for fine-grained user permissions.",
+      "Focused on improving usability, accessibility, and clarity while maintaining trust and national identity."
     ],
     href: "https://www.figma.com/proto/Q0wnswfbfFZKp0pRZuMHYO/SL-Post?page-id=0%3A1&node-id=1-4&p=f&viewport=-737%2C-576%2C0.45&t=x4UDG1JPvJygHfbH-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A4",
     logo: "",
@@ -69,56 +87,16 @@ export const myProjects = [
     ],
   },
   {
-    id: 4,
+    id: 5,
     title: "Survival Game Website Design",
     description:
-      "A modern, interactive web application built with Blazor WebAssembly and .NET Core.",
+      "A full website UI/UX concept built for a story-driven action, survival game.",
     subDescription: [
-      "Developed a fully interactive Single Page Application (SPA) using Blazor WebAssembly.",
-      "Implemented API interactions using .NET Core for a robust backend.",
-      "Designed responsive UI components with Tailwind CSS for an enhanced UX.",
-      "Integrated SQLite for efficient client-side database storage.",
+      "Designed with cinematic composition and clear interaction flow, the website integrates hero visuals, content sections, and navigation to deliver a seamless and engaging digital experience."
     ],
-    href: "",
+    href: "https://www.figma.com/proto/RWxixHmG5ne0HFBc2ZQpwW/Gaming-Website?page-id=0%3A1&node-id=1-3&starting-point-node-id=1%3A3&t=zoxYF1JuMIoldozG-1",
     logo: "",
     image: "/assets/projects/game website.png",
-    tags: [
-      {
-        id: 1,
-        name: "Blazor",
-        path: "/assets/logos/blazor.svg",
-      },
-      {
-        id: 2,
-        name: ".NET Core",
-        path: "/assets/logos/dotnetcore.svg",
-      },
-      {
-        id: 3,
-        name: "SQLite",
-        path: "/assets/logos/sqlite.svg",
-      },
-      {
-        id: 4,
-        name: "TailwindCSS",
-        path: "/assets/logos/tailwindcss.svg",
-      },
-    ],
-  },
-  {
-    id: 5,
-    title: "Nike Store Website - UI/UX Concept Design",
-    description:
-      "A lightweight C++ game engine designed for 2D and 3D game development.",
-    subDescription: [
-      "Built a powerful rendering engine using OpenGL and C++.",
-      "Developed a physics engine with collision detection and particle effects.",
-      "Implemented a scripting system for easy game customization.",
-      "Optimized performance with multi-threading and efficient memory management.",
-    ],
-    href: "",
-    logo: "",
-    image: "/assets/projects/nike store.png",
     tags: [
       {
         id: 1,
@@ -129,18 +107,15 @@ export const myProjects = [
   },
   {
     id: 6,
-    title: "Social Media / Visual Discovery App",
+    title: "Nike Store Website - UI/UX Concept Design",
     description:
-      "A web application that allows users to enroll in courses, watch video lectures, and take quizzes.",
+      "A bold and immersive Nike store landing page concept focused on premium product presentation, dynamic layouts, and high-impact visual storytelling.",
     subDescription: [
-      "Built using Blazor WebAssembly for a seamless SPA experience.",
-      "Implemented video streaming with Azure Media Services.",
-      "Added a quiz system with dynamic question generation and real-time grading.",
-      "Integrated Stripe API for secure payment processing.",
+      "A modern e-commerce interface highlighting products through bold visuals and clean navigation."
     ],
-    href: "",
+    href: "https://www.figma.com/proto/JZUWNrAehAG10GxLrenyD0/Nike-store-ui-design-with-animations--Community-?page-id=0%3A1&node-id=1-2&p=f&viewport=326%2C309%2C0.16&t=5lMMDOyn7Zvn2uEu-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A2",
     logo: "",
-    image: "/assets/projects/photos app.png",
+    image: "/assets/projects/nike store.png",
     tags: [
       {
         id: 1,
@@ -149,39 +124,45 @@ export const myProjects = [
       }
     ],
   },
+  // {
+  //   id: 7,
+  //   title: "Social Media / Visual Discovery App",
+  //   description:
+  //     "A web application that allows users to enroll in courses, watch video lectures, and take quizzes.",
+  //   subDescription: [
+  //     "Built using Blazor WebAssembly for a seamless SPA experience.",
+  //     "Implemented video streaming with Azure Media Services.",
+  //     "Added a quiz system with dynamic question generation and real-time grading.",
+  //     "Integrated Stripe API for secure payment processing.",
+  //   ],
+  //   href: "",
+  //   logo: "",
+  //   image: "/assets/projects/photos app.png",
+  //   tags: [
+  //     {
+  //       id: 1,
+  //       name: "Figma",
+  //       path: "/assets/logos/figma.png",
+  //     }
+  //   ],
+  // },
   {
-    id: 7,
-    title: "Sri Lankan Tourism Website",
+    id: 8,
+    title: "Food Delivery App UI",
     description:
-      "A modern tourism platform designed to showcase Sri Lanka as a premier travel destination, featuring the island's diverse attractions from pristine beaches and lush tea plantations to ancient cultural sites and wildlife sanctuaries",
+      "A modern and minimal food delivery mobile app design featuring an intuitive browsing experience, bold red accents, and high-quality food visuals for a smooth and engaging ordering flow.",
     subDescription: [
-      "The design employs a vibrant color palette inspired by Sri Lanka's natural beauty—ocean blues, sunset oranges, and tropical greens. Key features include an interactive destinations gallery, curated experience categories, and a comprehensive trip planning system covering popular locations like Ella, Galle, Kandy, and Yala National Park.",
-      "Built in Figma with modern design principles, the responsive interface ensures seamless navigation across all devices while balancing aesthetic appeal with functionality through smooth animations and clear call-to-action elements.",
+      "Modern · Minimal · User-friendly",
     ],
-    href: "https://www.figma.com/make/AwiHMfbl9BkszB0hdISgOa/Sri-Lankan-Tourism-Homepage?fullscreen=1&t=ido2ynBB0ZtUH7hh-1",
+    href: "https://www.figma.com/proto/9Y34Ur6JCK1L6T6aaKhqzv/Untitled?page-id=0%3A1&node-id=5-263&p=f&viewport=-658%2C145%2C0.54&t=D6gSFviThjhV9PYh-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A23",
     logo: "",
-    image: "/assets/projects/Sri Lankan Tourism Homepage.png",
+    image: "/assets/projects/Food Delivery App UI.png",
     tags: [
       {
         id: 1,
-        name: "C#",
-        path: "/assets/logos/csharp.svg",
-      },
-      {
-        id: 2,
-        name: ".Net",
-        path: "/assets/logos/dotnet.svg",
-      },
-      {
-        id: 3,
-        name: "Ef Core",
-        path: "/assets/logos/efcore.png",
-      },
-      {
-        id: 4,
-        name: "TailwindCSS",
-        path: "/assets/logos/tailwindcss.svg",
-      },
+        name: "Figma",
+        path: "/assets/logos/figma.png",
+      }
     ],
   }
 ];
