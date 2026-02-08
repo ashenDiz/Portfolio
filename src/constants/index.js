@@ -10,7 +10,7 @@ export const myProjects = [
     ],
     href: "https://www.figma.com/proto/q3y3xRg4240pT5q36lDMGh/Movie-Ticket-Booking-App-Design?page-id=0%3A1&node-id=1-65&p=f&viewport=133%2C89%2C0.16&t=grBBqIaBHLfuzPji-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A65",
     logo: "",
-    image: "/assets/projects/Movie Ticket Bokking App.png",
+    image: "/assets/projects/Movie Ticket Bokking App.jpg",
     tags: [
       {
         id: 1,
@@ -29,7 +29,7 @@ export const myProjects = [
     ],
     href: "https://paging.lesstaxi.com",
     logo: "",
-    image: "/assets/projects/paging.png",
+    image: "/assets/projects/paging.jpg",
     tags: [
       {
         id: 1,
@@ -58,7 +58,7 @@ export const myProjects = [
     ],
     href: "https://www.figma.com/proto/lP1KMZjsj7IxItDx9kfyzP/Untitled?page-id=0%3A1&node-id=1-2&p=f&viewport=23%2C229%2C0.06&t=xlm3XOz9U1llmEZz-1&scaling=scale-down&content-scaling=fixed",
     logo: "",
-    image: "/assets/projects/Juicy.png",
+    image: "/assets/projects/Juicy.jpg",
     tags: [
       {
         id: 1,
@@ -77,7 +77,7 @@ export const myProjects = [
     ],
     href: "https://www.figma.com/proto/Q0wnswfbfFZKp0pRZuMHYO/SL-Post?page-id=0%3A1&node-id=1-4&p=f&viewport=-737%2C-576%2C0.45&t=x4UDG1JPvJygHfbH-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A4",
     logo: "",
-    image: "/assets/projects/SL Post.png",
+    image: "/assets/projects/SL Post.jpg",
     tags: [
       {
         id: 1,
@@ -96,7 +96,7 @@ export const myProjects = [
     ],
     href: "https://www.figma.com/proto/RWxixHmG5ne0HFBc2ZQpwW/Gaming-Website?page-id=0%3A1&node-id=1-3&starting-point-node-id=1%3A3&t=zoxYF1JuMIoldozG-1",
     logo: "",
-    image: "/assets/projects/game website.png",
+    image: "/assets/projects/game website.jpg",
     tags: [
       {
         id: 1,
@@ -115,7 +115,7 @@ export const myProjects = [
     ],
     href: "https://www.figma.com/proto/JZUWNrAehAG10GxLrenyD0/Nike-store-ui-design-with-animations--Community-?page-id=0%3A1&node-id=1-2&p=f&viewport=326%2C309%2C0.16&t=5lMMDOyn7Zvn2uEu-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A2",
     logo: "",
-    image: "/assets/projects/nike store.png",
+    image: "/assets/projects/nike store.jpg",
     tags: [
       {
         id: 1,
@@ -156,7 +156,7 @@ export const myProjects = [
     ],
     href: "https://www.figma.com/proto/9Y34Ur6JCK1L6T6aaKhqzv/Untitled?page-id=0%3A1&node-id=5-263&p=f&viewport=-658%2C145%2C0.54&t=D6gSFviThjhV9PYh-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A23",
     logo: "",
-    image: "/assets/projects/Food Delivery App UI.png",
+    image: "/assets/projects/Food Delivery App UI.jpg",
     tags: [
       {
         id: 1,
